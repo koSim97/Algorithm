@@ -2,7 +2,7 @@
 
  int main(void)
 {
-  int arr1[] = { 2, 3, 0, 0, 4, 0, 6 };
+  int arr1[] = { 6, 0, 8, 2, 3, 0, 4, 0, 1 };
   int n = sizeof(arr1) / sizeof(arr1[0]);
   int j = 0;
   
